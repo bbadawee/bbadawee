@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbadawee&label=Profile%20views&color=0e75b6&style=flat" alt="bbadawee" /> </p>
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/bbadawee/count.svg)
-```
+https://profile-counter.glitch.me/bbadawee/count.svg
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
